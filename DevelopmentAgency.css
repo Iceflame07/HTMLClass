@@ -1,0 +1,70 @@
+*Main Content{
+    width: 1440px;
+    height: 5495px;
+    top: 1854px;
+    left: 4739px;
+    gap: 0px;
+    opacity: 0px;    
+};
+
+.Colors{
+    background: rgba(249, 250, 251, 1);
+};
+
+.Layout{
+    width: 441px;
+    height: 398px;
+    top: 189px;
+    left: 110px;
+    gap: 0px;
+    opacity: 0px;
+    border: Mixed solid rgba(6, 56, 82, 1)
+};
+
+.Overviews{
+    width: 916px;
+    height: 651px;
+    top: 159px;
+    left: 585px;
+    gap: 0px;
+    border-radius: 16px 0px 0px 0px;
+    opacity: 0px;
+    angle: 1 deg;    
+};
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    height: 5px;
+    align-items: right-down;
+};
+
+.colour{
+    background: rgba(246, 246, 246, 1);
+};
+
+.Shadows{
+    box-shadow: -7.32px 
+                14.65px 
+                41.45px 0px 
+    rgba(40, 44, 66, 0.06);
+};
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+};
+
+.Testimonial{
+    border: 0.6px solid rgba(255, 255, 255, 0.12)
+};
+
+.navigate{
+    display: flex;
+    justify-content:1440px;
+    height: 666px;
+    Top:300px;
+    align-items: center;
+};

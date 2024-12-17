@@ -1,0 +1,46 @@
+*Wrapper{
+    Width: Hug(1,258px);
+    Height: (44px);
+    Top: 33px;
+    Left: 91px;
+    Gap: 399px;
+};
+
+.layout{
+    width: 1440px;
+    height: 4349px;
+    top: -334px;
+    left: -606px;
+    gap: 0px;
+    opacity: 0px;
+};
+
+.colors{
+    background: #F5F5F5;
+};
+
+.line2{
+    width: 4608px;
+    height: 0px;
+    left: 1380px;
+    gap: 0px;
+    border: 1px;
+    opacity: 0px;
+    angle: -90 deg;
+};
+
+.Borders{
+    border: 1px solid #C9C9C9
+};
+
+.Request{
+    width: Fixed (1,179px)px;
+    height: Fixed (614px)px;
+    top: 3253px;
+    left: 131px;
+    gap: 10px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #2995E2
+
+};

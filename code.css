@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+};
+
+wrapperOne{
+    width:1258 hug;
+    margin: auto;
+};
+
+.header-section{
+        display: flex;
+        justify-content: space-between;
+        height: 50px;
+        align-items: center;
+};
+
+.layout1{
+    Width: 1440px;
+    Height: 4349px;
+    Top: -334px
+    Left -606px;
+    Color: white;
+};
+
+.layout2{
+    Width: 1600px;
+    Height: 960px
+    Top -18px;
+    Left: 1848px;
+    Color: #DDF
+
+};

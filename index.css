@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0; 
+};
+.mainWrapper{
+    width: 90vw;
+    margin: auto;
+}
+ul{
+    list-style: none;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.login{
+    display: flex;
+    width: 120px;
+    justify-content: space-between;
+}
+
+.textContainer{
+    color:darkgreen;
+    font-size: 64px;
+    font-weight: light;
+    letter-spacing: 17px;
+    line-height: 64;
+}
+
+.textContainer h2{
+    color: white;
+    font-size: 64px;
+    font-weight: bolder;
+    letter-spacing: 445px;
+    line-height: 71px;
+}
+
+.textContainer{
+    width: 445px;
+}
+
+.heropage{
+    display: flex;
+    justify-content: space-between;
+    height: 90vh;
+}
+
+imageContainer{
+    width: 610;
+    height: 90vh;
+};
+    
