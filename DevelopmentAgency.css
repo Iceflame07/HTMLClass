@@ -33,7 +33,7 @@
 };
 
 .navBar{
-    display: flex;
+    display: flex center;
     justify-content: space-between;
     height: 5px;
     align-items: right-down;

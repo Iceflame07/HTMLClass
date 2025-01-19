@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Wrapper{
+    padding: 200px;
+}
+
+.CompoundInterestCalculator{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.firstStep{
+    display: flex;
+    font-size: 10px;
+    justify-content: right;
+    width: 200px;
+    font-display: blue;
+}
+
+.Initial-Investment{
+    display: flex;
+    font-size: 200px;
+    width: 50px;
+}
+
+.Enter{
+    margin-top: 10px;
+
+}
